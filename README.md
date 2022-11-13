@@ -19,8 +19,8 @@ LiDAR (MBL) mounted on a rotating platform. The experiments conducted on
 complex multi-story building and large-scale outdoor scenes with various settings of 
 sensor motion have shown the superior performance of our system over multiple state-of-the-art methods.
 
+![image](https://user-images.githubusercontent.com/33154113/201502207-8f8b828c-6f39-4da9-9c60-f9dd46f3b357.png)
 
-![image](https://user-images.githubusercontent.com/33154113/201501219-6d4f0977-cd02-46e8-8440-33a00b2d8728.png)
 
 ![image](https://user-images.githubusercontent.com/33154113/201502140-ff169b33-28be-4cf4-8898-eb2256b206e5.png)
 
