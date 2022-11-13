@@ -22,8 +22,8 @@ sensor motion have shown the superior performance of our system over multiple st
 
 ![image](https://user-images.githubusercontent.com/33154113/201501219-6d4f0977-cd02-46e8-8440-33a00b2d8728.png)
 
+![image](https://user-images.githubusercontent.com/33154113/201502140-ff169b33-28be-4cf4-8898-eb2256b206e5.png)
 
 
-
-https://user-images.githubusercontent.com/33154113/201501230-e8f47d59-dd3a-4ff8-83c2-1f55c95a3a65.mp4
+Demo videos at https://www.youtube.com/watch?v=R8B6AtgdH8E
 
